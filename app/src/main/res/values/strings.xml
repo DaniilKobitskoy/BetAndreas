@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BetAndreas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="fb">549545010518139</string>
+    <string name="fbclient">a16b9660452889657b330b14b60f8271</string>
+    <string name="scheme">fb549545010518139</string>
+
+</resources>
